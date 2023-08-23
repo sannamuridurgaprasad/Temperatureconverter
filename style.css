@@ -1,0 +1,47 @@
+body{
+    padding: 150px;
+    background-color: black;
+}
+.bg-container{
+  background: radial-gradient(	#ff0000,#dbddff,	#f3ffd3,	#e4ffde,#bbc4c9,#c1c798);
+  border-radius: 50px;
+  padding: 50px;
+  text-align: center;
+}
+.heading{
+    padding-top: 50px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-family: "roboto";
+}
+#container{
+    text-align: center;
+    padding: 50px;
+}
+
+.inp{
+    font-family: "sans-serif";
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 250px;
+    border-radius: 10px;
+    border: dotted 2px grey;
+    background-color:rgb(249, 255, 240);
+    color: navy;
+    
+}
+label{
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(44, 6, 238);
+
+}
+.degree{
+    font-weight: bold;
+    color: #FF1493;
+}
